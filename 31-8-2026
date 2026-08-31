@@ -2,3 +2,4 @@ Today i solve these problems using binary search on answer
 binary search on answer means calculate the min or max of the array and then taken that values uses in the low and high of the binary search
 1. 1552 --> Magnetic force between two balls
 2. Aggressive cows 
+3. Allocate minimum number of pages
