@@ -1,0 +1,3 @@
+Today i solve 2 problems using monotonic stack
+1. 739 --> daily temperatures -> next greater element but with index
+2. 907 --> Sum of Subarray minimums -> next smaller element + previous smallest element with index
